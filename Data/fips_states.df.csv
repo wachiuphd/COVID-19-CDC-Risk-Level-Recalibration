@@ -1,0 +1,52 @@
+type,state,county,name,fips,id
+state,AL,"",Alabama,01,1
+state,AK,"",Alaska,02,2
+state,AZ,"",Arizona,04,3
+state,AR,"",Arkansas,05,4
+state,CA,"",California,06,5
+state,CO,"",Colorado,08,6
+state,CT,"",Connecticut,09,7
+state,DE,"",Delaware,10,8
+state,DC,"",District of Columbia,11,9
+state,FL,"",Florida,12,10
+state,GA,"",Georgia,13,11
+state,HI,"",Hawaii,15,12
+state,ID,"",Idaho,16,13
+state,IL,"",Illinois,17,14
+state,IN,"",Indiana,18,15
+state,IA,"",Iowa,19,16
+state,KS,"",Kansas,20,17
+state,KY,"",Kentucky,21,18
+state,LA,"",Louisiana,22,19
+state,ME,"",Maine,23,20
+state,MD,"",Maryland,24,21
+state,MA,"",Massachusetts,25,22
+state,MI,"",Michigan,26,23
+state,MN,"",Minnesota,27,24
+state,MS,"",Mississippi,28,25
+state,MO,"",Missouri,29,26
+state,MT,"",Montana,30,27
+state,NE,"",Nebraska,31,28
+state,NV,"",Nevada,32,29
+state,NH,"",New Hampshire,33,30
+state,NJ,"",New Jersey,34,31
+state,NM,"",New Mexico,35,32
+state,NY,"",New York,36,33
+state,NC,"",North Carolina,37,34
+state,ND,"",North Dakota,38,35
+state,OH,"",Ohio,39,36
+state,OK,"",Oklahoma,40,37
+state,OR,"",Oregon,41,38
+state,PA,"",Pennsylvania,42,39
+state,RI,"",Rhode Island,44,40
+state,SC,"",South Carolina,45,41
+state,SD,"",South Dakota,46,42
+state,TN,"",Tennessee,47,43
+state,TX,"",Texas,48,44
+state,UT,"",Utah,49,45
+state,VT,"",Vermont,50,46
+state,VA,"",Virginia,51,47
+state,WA,"",Washington,53,48
+state,WV,"",West Virginia,54,49
+state,WI,"",Wisconsin,55,50
+state,WY,"",Wyoming,56,51
