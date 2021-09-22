@@ -29,6 +29,6 @@
 ### Recalibration category errors
 
 * recalibrate_data.R -- script that creates the modified CDC risk levels with Moderate and Substantial combined, as well as the true and predicted recalibrated levels (run from other scripts)
-* CDC_Mod_category_errors.R -- this file analyzes the results in terms of performance of the CDC risk levels, modified to combine "Moderate" and "Substantial", in predicting levels of prevalence IU.   It outputs several plots of the confusion matrices, summary statistics of performance, as well as onbe panel of Figure 1B.  All output files (except Rdata file for part of Fig1B) start with "CDC_Category_Mod".
+* CDC_Mod_category_errors.R -- this file analyzes the results in terms of performance of the CDC risk levels, modified to combine "Moderate" and "Substantial", in predicting levels of prevalence IU.   It outputs several plots of the confusion matrices, summary statistics of performance, as well as onbe panel of Figure 1B.  All output files (except Rdata file for part of Fig1B) start with "CDC_Category_Mod".  Note that Appendix figure A1 is the file "CDC_Category_Mod_errors_density"
 * Recalibration_errors.R -- this file analyzes the results in terms of performance of the recalibrated risk levelsrisk levels, modified to combine "Moderate" and "Substantial", in predicting levels of prevalence IU.   It outputs several plots of the confusion matrices, summary statistics of performance, as well as the complete Figure 1.  All output files (except Rdata file for part of Fig1B and the full Fig1) start with "Rec_Category".
 
